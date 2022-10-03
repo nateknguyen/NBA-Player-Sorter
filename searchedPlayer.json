@@ -1,0 +1,66 @@
+[
+    {
+        "player_name": "Travis Knight",
+        "age": "22.0",
+        "pts": "4.8",
+        "reb": "4.5",
+        "ast": "0.5",
+        "net_rating": "3.85"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "23.0",
+        "pts": "6.5",
+        "reb": "4.9",
+        "ast": "1.4",
+        "net_rating": "5.00"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "24.0",
+        "pts": "4.2",
+        "reb": "3.5",
+        "ast": "0.8",
+        "net_rating": "3.31"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "25.0",
+        "pts": "1.7",
+        "reb": "2.0",
+        "ast": "0.4",
+        "net_rating": "1.53"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "26.0",
+        "pts": "0.6",
+        "reb": "1.2",
+        "ast": "0.1",
+        "net_rating": "0.68"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "27.0",
+        "pts": "2.0",
+        "reb": "2.1",
+        "ast": "0.2",
+        "net_rating": "1.67"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "28.0",
+        "pts": "1.9",
+        "reb": "1.9",
+        "ast": "0.4",
+        "net_rating": "1.60"
+    },
+    {
+        "player_name": "Travis Knight",
+        "age": "11",
+        "pts": "11",
+        "reb": "11",
+        "ast": "11",
+        "net_rating": "11.0"
+    }
+]
