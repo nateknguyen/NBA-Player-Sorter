@@ -1,14 +1,14 @@
 # NBA-Player-Sorter
 
 ## Features
-NBA-Player-Sorter is a web application built using Python, Flask, Bootstrap, and HTML/CSS
+NBA-Player-Sorter is a web application built using Python, Flask, Bootstrap, and HTML/CSS.
 
 
 NBA-Player-Sorter provides a simple user friendly interface to interact with NBA Player data that was sourced from the 1996-97 to 2020-21 NBA seasons. 
 
 It allows the user to interact with the data in many different ways such as: searching by player names, draft round, or even seasons played.
 
-Along with this, users have the option to add/delete/update players stored in the data base along with an algorithm to calculate a player's net rating with the ability to generate a visual representation of their net rating with a graph
+Along with this, users have the option to add/delete/update players stored in the data base along with an algorithm to calculate a player's net rating with the ability to generate a visual representation of their net rating with a graph.
 
 ## Requirements
 NBA-Player-Sorter requires `python3, flask, matplotlib, and mpld3` to be run.
